@@ -1,0 +1,11 @@
+/runs/
+/events/
+/data/
+annotations.xml
+out_test.mp4
+out_test_conf0.2.mp4
+out_test_train_with_FPS.mp4
+test_data_market.csv
+yolo11n.pt
+_.ipynb
+yolov8n.pt
